@@ -11,9 +11,12 @@
 #### 数独
 - https://developer.unity.cn/projects/64d89831edbc2abd623cbfcd
 #### 华容道
-- https://www.jianshu.com/p/13f7e044017b
+- https://www.jianshu.com/p/13f7e044017b  （复原图片式）
+- https://blog.csdn.net/qq_40717065/article/details/81478203   （逃脱式）
 #### 特定顺序/角度摆放
 
 #### 配对
 
+#### 推箱子
+- https://blog.csdn.net/ZHurric/article/details/114941065     资源 https://github.com/1520386112/Sokoban
 #### 
