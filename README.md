@@ -4,6 +4,7 @@
 - 被特定物品触发，比如钥匙、杯子
 - 触发器怎么写脚本文件？这还是一个问题 :-)
 ## 小游戏   *每个人先选择1个最喜欢（最简单）的写吧！*
+### WJC先选择[打砖块](https://github.com/XANkui/UnityMiniGameParadise/blob/main/README.md)
 #### 2048
 - https://developer.unity.cn/projects/64d88ccdedbc2a10dd1eed77
 #### 迷你拼图 （可以拼完之后出现一个道具或者图片是新线索之类的）
